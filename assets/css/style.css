@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("images/last.jpg") top right no-repeat;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWfb-X4jD9cZhFR5UXlLij0K75GxMs4RH00Q&usqp=CAU") top right no-repeat;
   background-size: cover;
   position: relative;
 }
